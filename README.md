@@ -6,13 +6,15 @@ A passionate self-taught frontEnd web developer from India.
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on [Agile Management](https://github.com/parthikrb/esteamate)
 
-<br />
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthikrb&show_icons=true&locale=en" alt="parthikrb" /></p>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/parthiban-baskar-41229393/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/parthiban-baskar-41229393/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parthiban-baskar-41229393/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/parthiban-baskar-41229393/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,8 +23,6 @@ A passionate self-taught frontEnd web developer from India.
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthikrb&show_icons=true&locale=en&layout=compact" alt="parthikrb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthikrb&show_icons=true&locale=en" alt="parthikrb" /></p>
 
 ---
 
