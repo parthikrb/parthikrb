@@ -21,6 +21,3 @@ A passionate self-taught frontEnd web developer from India.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthikrb&show_icons=true&locale=en&layout=compact" alt="parthikrb" /></p>
 
----
-
-## <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthikrb" alt="parthikrb" /></a> </p>
