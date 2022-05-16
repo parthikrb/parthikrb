@@ -3,7 +3,7 @@
 A passionate self-taught frontEnd web developer from India.
 
 - 🔭 I’m currently working on my project [Agile Management](https://github.com/parthikrb/esteamate)
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on [Agile Management](https://github.com/parthikrb/esteamate)
 
 ---
